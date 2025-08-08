@@ -1,7 +1,7 @@
 # E-Commerce Product Analysis Project
 
 ## Overview
-###This project involved analyzing raw retail data containing invoices, product details, customer IDs, transaction dates, quantities, prices, and country information.
+### This project involved analyzing raw retail data containing invoices, product details, customer IDs, transaction dates, quantities, prices, and country information.
 The process included:
 
 - Running descriptive statistics to identify data distribution patterns and detect outliers.
@@ -17,6 +17,9 @@ The process included:
 ## DataSet
 - <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/Online%20Retail.xlsx">DataSet</a>
 
+## Data After Cleaning In Power Query
+- <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/OnlineRetail_PowerQueryData.xlsx">CleaningData</a>
+
 ## PowerBi DashBoard
 - <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/E-CommerceAnalysis.pbix">Dynamic Dashboard</a>
 
@@ -25,12 +28,3 @@ The process included:
 
 ## Project Reprt
 - <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/Report.docx">Presentation<a/>
-
-## Objective
-- Customer Segmentation: Apply RFM (Recency, Frequency, Monetary) analysis to categorize customers for targeted marketing.
-- Risk Prediction: Predict loan default risks to enhance financial security.
-- Fraud Detection: Identify suspicious transactions using rule-based methods.
-- Forecasting: Analyze transaction and loan trends for strategic planning.
-- Data Visualization: Create dashboards to visualize loan amounts, transaction distributions, and account trends.
-
-## Technologies Used
