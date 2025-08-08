@@ -27,4 +27,4 @@ The process included:
 - <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/E-commerce%20Dash.png">DashBoard</a>
 
 ## Project Reprt
-- <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/Report.docx">Presentation<a/>
+- <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/Report.docx">Report<a/>
