@@ -28,3 +28,6 @@ The process included:
 
 ## Project Reprt
 - <a href="https://github.com/Shahdgmal/E-Commerce-Product-Analytics-in-EXCEL-POWER-BI/blob/main/Report.docx">Report<a/>
+
+## RFM Analysis
+- <a href="https://colab.research.google.com/drive/1u10Heeu9i1h2cjU3Xg2JChkcKexEw5y1#scrollTo=wimiuaVBhHom">RFM Code & Report</a>
